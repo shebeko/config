@@ -1,2 +1,4 @@
 example:
   property: I am in dev mode
+example2:
+  props: It works
